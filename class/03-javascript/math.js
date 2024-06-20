@@ -1,0 +1,22 @@
+// String(Math.floor(Math.random()*1000000))
+// '282768'
+// String(Math.floor(Math.random()*1000000))
+// '724914'
+// String(Math.floor(Math.random()*1000000)).padStart(6,"0")
+// '167701'
+// String(Math.floor(Math.random()*1000000)).padStart(6,"0")
+// '762459'
+// String(Math.floor(Math.random()*1000000)).padStart(6,"0")
+// '831144'
+// String(Math.floor(Math.random()*1000000)).padStart(6,"0")
+// '099650'
+// String(Math.floor(Math.random()*1000000)).padStart(6,"0")
+// '846257'
+// let result = String(Math.floor(Math.random()*1000000)).padStart(6,"0")
+// undefined
+// result
+// '221471'
+// result
+// '221471'
+// result
+// '221471'
